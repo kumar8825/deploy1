@@ -14,7 +14,7 @@
         "kind": {
             "value": "StorageV2"
         },
-        "accessTier": {
+        "accessTier":  {
             "value": "Hot"
         },
         "minimumTlsVersion": {
@@ -29,7 +29,7 @@
         "networkAclsBypass": {
             "value": "AzureServices"
         },
-        "networkAclsDefaultAction": {
+        "networkAclsDefaultAction": { 
             "value": "Allow"
         }
     }
